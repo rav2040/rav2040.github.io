@@ -69,7 +69,7 @@ experiences:
 projects:
     title: Projects
     intro: >
-      My central portfolio piece is an HTTP/2 web framework for Node.js called Tuft, which has its own website at <a href="https://tuft.dev" target="_blank">https://tuft.dev</a>. GitHub repository links for all my open source Node.js projects, including Tuft, can be found below.
+      My primary portfolio piece is an HTTP/2 web framework called Tuft, which has its own website at <a href="https://tuft.dev" target="_blank">https://tuft.dev</a>. GitHub repository links for all my open source Node.js projects, including Tuft, can be found below.
     assignments:
       - title: Tuft
         link: "https://github.com/tuftjs/tuft"
