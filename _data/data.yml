@@ -1,120 +1,122 @@
 sidebar:
-    education: True
-    name: Stuart Kennedy
-    tagline: Node.js Developer
-    avatar: profile.jpg
-    email: stuartkennedy@outlook.com
-    website: iamstu.art
-    linkedin: iamstu-art
-    github: rav2040
+  education: True
+  name: Stuart Kennedy
+  tagline: Node.js Developer
+  avatar: profile.jpg
+  email: stuartkennedy@outlook.com
+  website: iamstu.art
+  linkedin: iamstu-art
+  github: rav2040
+  languages:
+    - idiom: English
+      level: Native
+    - idiom: Chinese
+      level: Professional
+  interests:
+    - item: Computers
+    - item: Technology
+    - item: Language
+    - item: Exercise
+    - item: Gaming
+    - item: Space
+    - item: Motorsport
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: Chinese
-        level: Professional
-
-    interests:
-      - item: Computers
-      - item: Technology
-      - item: Language
-      - item: Exercise
-      - item: Gaming
-      - item: Space
-      - item: Motorsport
+education:
+  - degree: BSc. in Psychology
+    university: University of Adelaide
+    time: 2004 - 2007
+  - degree: Certificate in Chinese Language
+    university: Beijing Language & Culture University
+    time: 2011 - 2012
 
 career-profile:
-    title: Personal Statement
-    summary: |
-        I am a former English teacher and Chinese-English translator with a BSc. in Psychology. Now a self-taught Node.js developer, I'm looking to start a new career in back-end web development in Australia or New Zealand. Already confident in my skills with Node.js, HTTP web servers, and databases, but looking for an opportunity to gain professional work experience.
-education:
-    - degree: BSc. in Psychology
-      university: University of Adelaide
-      time: 2004 - 2007
-    - degree: Certificate in Chinese Language
-      university: Beijing Language & Culture University
-      time: 2011 - 2012
-experiences:
-    - role: Translator and Localisation Consultant
-      time: Aug 2012 - Dec 2019
-      company: '<a href="http://www.topgame.com/" target="_blank">Topgame Entertainment</a><br><span style="color: #999;">Beijing, China</span>'
-      details: |
-        Topgame develops mobile games for the Chinese and western markets. I was responsible for all Chinese-English translation and localisation of in-game content.
-    - role: English Teacher
-      time: Aug 2009 - Jan 2011
-      company: '<a href="http://en.julc.cn/" target="_blank">Jilin University - Lambton College</a><br><span style="color: #999;">Changchun, China</span>'
-      details: |
-        I taught English as a Foreign Language to Chinese university students.
-    - role: English Teacher
-      time: Feb 2008 - Jun 2009
-      company: '<a href="https://www.neyc.cn/Category_1451/Index.aspx" target="_blank">Northeast Yucai School</a><br><span style="color: #999;">Shenyang, China</span>'
-      details: |
-        I taught conversational English to Chinese middle school students.
-    - role: IT Technician
-      time: Feb 2004 - Dec 2007
-      company: '<a href="https://www.metrocanteens.com.au/" target="_blank">Metro Canteens</a><br><span style="color: #999;">Adelaide, Australia</span>'
-      details: |
-        I worked part-time during my university studies, primarily as an IT Technician, responsible for implementation and technical support of office computers and network equipment.
-    - role: Ski Rentals Shop Assistant
-      time: Dec 2006 - Mar 2007
-      company: '<a href="https://www.sierraattahoe.com/" target="_blank">Sierra-at-Tahoe</a><br><span style="color: #999;">South Lake Tahoe, USA</span>'
-      details: |
-        I spent one winter working at a ski rental shop in California, assisting customers with the rental and returns of ski equipment.
-    - role: Rifleman
-      time: Nov 2002 - Jan 2005
-      company: '<a href="https://www.army.gov.au/" target="_blank">Australian Army</a><br><span style="color: #999;">Adelaide, Australia</span>'
-      details: |
-        I performed the duties of an infantry soldier in the Australian Army Reserve.
-projects:
-    title: Projects
-    intro: >
-      My primary portfolio piece is an HTTP/2 web framework called Tuft, which has its own website at <a href="https://tuft.dev" target="_blank">https://tuft.dev</a>. GitHub repository links for all my open source Node.js projects, including Tuft, can be found below.
-    assignments:
-      - title: Tuft
-        link: "https://github.com/tuftjs/tuft"
-        tagline: "An HTTP/2 web framework for Node.js."
-
-      - title: h2c
-        link: "https://github.com/rav2040/h2c"
-        tagline: "An HTTP command line client with support for HTTP/2."
-
-      - title: JSON Stringify Lite
-        link: "https://github.com/rav2040/json-stringify-lite"
-        tagline: "A speedier version of JavaScript's JSON.stringify()."
-
-      - title: Worker Pool
-        link: "https://github.com/rav2040/worker-pool"
-        tagline: "A Node.js library for managing a pool of worker threads."
+  title: Personal Statement
+  summary: |
+    I am a former English teacher and Chinese-English translator with a BSc. in Psychology. Now a self-taught Node.js developer, I'm looking to start a new career in back-end web development in Australia or New Zealand. Already confident in my skills with Node.js, HTTP web servers, and databases, but looking for an opportunity to gain professional work experience.
 
 publications:
-    title: Certifications
-    intro: Coming soon...
+  title: Certifications
+  intro: Coming soon...
+
+projects:
+  title: Projects
+  intro: >
+    My primary portfolio piece is an HTTP/2 web framework called Tuft, which has its own website at <a href="https://tuft.dev" target="_blank">https://tuft.dev</a>. GitHub repository links for all my open source Node.js projects, including Tuft, can be found below.
+  assignments:
+    - title: Tuft
+      link: "https://github.com/tuftjs/tuft"
+      tagline: "An HTTP/2 web framework for Node.js."
+
+    - title: h2c
+      link: "https://github.com/rav2040/h2c"
+      tagline: "An HTTP command line client with support for HTTP/2."
+
+    - title: JSON Stringify Lite
+      link: "https://github.com/rav2040/json-stringify-lite"
+      tagline: "A speedier version of JavaScript's JSON.stringify()."
+
+    - title: Worker Pool
+      link: "https://github.com/rav2040/worker-pool"
+      tagline: "A Node.js library for managing a pool of worker threads."
 
 skills:
-    title: Technical Skills
+  title: Technical Skills
 
-    toolset:
-      - name: JavaScript & Node.js
-        level: 98%
+  toolset:
+    - name: JavaScript & Node.js
+      level: 98%
+    - name: TypeScript
+      level: 95%
+    - name: MongoDB
+      level: 90%
+    - name: Redis
+      level: 90%
+    - name: SQL
+      level: 80%
+    - name: Git
+      level: 90%
+    - name: HTML5 & CSS
+      level: 95%
+    - name: React
+      level: 90%
 
-      - name: TypeScript
-        level: 95%
+experiences:
 
-      - name: MongoDB
-        level: 90%
+  - role: Translator and Localisation Consultant
+    time: Aug 2012 - Dec 2019
+    company: '<a href="http://www.topgame.com/" target="_blank">Topgame Entertainment</a><br><span style="color: #999;">Beijing, China</span>'
+    details: |
+      Topgame develops mobile games for the Chinese and western markets. I was responsible for all Chinese-English translation and localisation of in-game content.
 
-      - name: Redis
-        level: 90%
+  - role: English Teacher
+    time: Aug 2009 - Jan 2011
+    company: '<a href="http://en.julc.cn/" target="_blank">Jilin University - Lambton College</a><br><span style="color: #999;">Changchun, China</span>'
+    details: |
+      I taught English as a Foreign Language to Chinese university students.
 
-      - name: SQL
-        level: 80%
+  - role: English Teacher
+    time: Feb 2008 - Jun 2009
+    company: '<a href="https://www.neyc.cn/Category_1451/Index.aspx" target="_blank">Northeast Yucai School</a><br><span style="color: #999;">Shenyang, China</span>'
+    details: |
+      I taught conversational English to Chinese middle school students.
 
-      - name: HTML5 & CSS
-        level: 95%
+  - role: IT Technician
+    time: Feb 2004 - Dec 2007
+    company: '<a href="https://www.metrocanteens.com.au/" target="_blank">Metro Canteens</a><br><span style="color: #999;">Adelaide, Australia</span>'
+    details: |
+      I worked part-time during my university studies, primarily as an IT Technician, responsible for implementation and technical support of office computers and network equipment.
 
-      - name: React
-        level: 90%
+  - role: Ski Rentals Shop Assistant
+    time: Dec 2006 - Mar 2007
+    company: '<a href="https://www.sierraattahoe.com/" target="_blank">Sierra-at-Tahoe</a><br><span style="color: #999;">South Lake Tahoe, USA</span>'
+    details: |
+      I spent one winter working at a ski rental shop in California, assisting customers with the rental and returns of ski equipment.
+
+  - role: Rifleman
+    time: Nov 2002 - Jan 2005
+    company: '<a href="https://www.army.gov.au/" target="_blank">Australian Army</a><br><span style="color: #999;">Adelaide, Australia</span>'
+    details: |
+      I performed the duties of an infantry soldier in the Australian Army Reserve.
 
 referees:
   title: Referees
