@@ -44,11 +44,11 @@ projects:
   assignments:
     - title: Tuft
       link: "https://github.com/tuftjs/tuft"
-      tagline: "An HTTP/2 web framework for Node.js."
+      tagline: "An HTTP/2 web framework."
 
     - title: h2c
       link: "https://github.com/rav2040/h2c"
-      tagline: "An HTTP command line client with support for HTTP/2."
+      tagline: "An HTTP/2 command line client."
 
     - title: JSON Stringify Lite
       link: "https://github.com/rav2040/json-stringify-lite"
@@ -56,7 +56,7 @@ projects:
 
     - title: Worker Pool
       link: "https://github.com/rav2040/worker-pool"
-      tagline: "A Node.js library for managing a pool of worker threads."
+      tagline: "A library for managing a pool of worker threads."
 
 skills:
   title: Technical Skills
