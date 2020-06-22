@@ -1,7 +1,7 @@
 sidebar:
   education: True
   name: Stuart Kennedy
-  tagline: Node.js Developer
+  tagline: Certified Node.js Developer
   avatar: profile.jpg
   email: rav2040@outlook.com
   linkedin: stuartkennedy3478
@@ -35,7 +35,7 @@ career-profile:
 
 publications:
   title: Certifications
-  intro: Coming soon...
+  intro: "[![OpenJS Certified Node.js Application Developer](/assets/images/JSNAD-cert.png)](https://www.youracclaim.com/badges/143b1050-d513-4ccd-bad8-01c66cc55f62)"
 
 projects:
   title: Projects
