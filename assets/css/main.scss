@@ -6,3 +6,7 @@
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+
+.cert-img {
+  width: 180px;
+}
