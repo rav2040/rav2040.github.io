@@ -31,7 +31,11 @@ education:
 career-profile:
   title: Personal Statement
   summary: |
-    I am a former English teacher and Chinese-English translator. Now a certified Node.js developer, I'm looking to start a new career in back-end web development in Australia or New Zealand. Already confident in my skills with Node.js, HTTP web servers, databases, and cloud services (AWS, Azure), but looking for an opportunity to gain professional work experience.
+    I am an OpenJS certified Node.js Application and Services developer.
+
+    I previously worked as an English teacher and Chinese-English translator/localization specialist, but have recently transitioned to a self-taught Node.js developer, and am now looking to start a new career in back-end or full-stack web development in New Zealand. Already confident in my skills with Node.js, HTTP web servers, React.js, databases, and cloud services such as AWS and Azure, but looking for an opportunity to gain professional work experience.
+
+    Check out my open source Node.js web framework, Tuft, at https://tuft.dev.
 
 publications:
   title: Certifications
