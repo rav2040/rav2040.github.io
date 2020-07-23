@@ -69,6 +69,8 @@ skills:
       level: 98%
     - name: TypeScript
       level: 95%
+    - name: AWS & Azure
+      level: 90%
     - name: MongoDB
       level: 90%
     - name: Redis
