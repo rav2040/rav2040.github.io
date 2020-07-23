@@ -24,7 +24,7 @@ education:
   - degree: BSc. in Psychology
     university: University of Adelaide
     time: 2004 - 2007
-  - degree: Certificate in Chinese Language
+  - degree: Chinese Language
     university: Beijing Language & Culture University
     time: 2011 - 2012
 
@@ -86,8 +86,8 @@ skills:
 
 experiences:
 
-  - role: Translator and Localisation Consultant
-    time: Aug 2012 - Dec 2019
+  - role: Localisation Project Manager
+    time: Aug 2012 - Jan 2020
     company: '<a href="http://www.topgame.com/" target="_blank">Topgame Entertainment</a><br><span style="color: #999;">Beijing, China</span>'
     details: |
       Topgame develops mobile games for the Chinese and western markets. I was responsible for all Chinese-English translation and localisation of in-game content.
