@@ -45,7 +45,7 @@ projects:
   assignments:
     - title: Tuft
       link: "https://github.com/tuftjs/tuft"
-      tagline: "An HTTP/2 web framework."
+      tagline: "A minimalist web framework."
 
     - title: h2c
       link: "https://github.com/rav2040/h2c"
