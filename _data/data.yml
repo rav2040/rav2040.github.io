@@ -31,9 +31,11 @@ education:
 career-profile:
   title: Personal Statement
   summary: |
-    I am an OpenJS certified Node.js Application and Services developer.
+    I am an OpenJS certified Node.js Application and Services developer looking for work as a full-time back end or full stack web developer.
 
-    I previously worked as an English teacher and Chinese-English translator/localization specialist in Beijing, but have recently transitioned to a self-taught Node.js developer, and am now looking to start a new career in back end or full stack web development in New Zealand. Already confident in my skills with Node.js, HTTP web servers, React.js, databases, and cloud services such as AWS and Azure, but looking for new opportunities to gain professional work experience.
+    I previously worked as an English teacher and Chinese-English translator/localisation specialist in Beijing, but have transitioned to a self-taught Node.js developer in recent years, and am now looking to start a new career in back end or full stack web development in New Zealand.
+
+    While I do not yet have professional work experience, my Node.js certifications are objective proof that I have the skills of a seasoned Node.js developer. Already confident in my skills with Node.js, TypeScript, HTTP web servers, React.js, databases, and cloud services such as AWS and Azure, but looking for new opportunities to gain professional work experience.
 
 publications:
   title: Certifications
