@@ -69,7 +69,7 @@ skills:
 
   toolset:
     - name: JavaScript & Node.js
-      level: 98%
+      level: 100%
     - name: TypeScript
       level: 95%
     - name: AWS & Azure
@@ -80,12 +80,13 @@ skills:
       level: 90%
     - name: SQL
       level: 80%
-    - name: Git
-      level: 90%
     - name: HTML5 & CSS
       level: 95%
     - name: React
       level: 90%
+    - name: Git
+      level: 90%
+
 
 experiences:
 
