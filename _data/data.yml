@@ -75,20 +75,24 @@ skills:
       level: 100%
     - name: TypeScript
       level: 95%
+    - name: React
+      level: 95%
+    - name: HTML5 & CSS
+      level: 95%
     - name: AWS & Azure
       level: 90%
     - name: MongoDB
       level: 90%
     - name: Redis
-      level: 90%
+      level: 85%
     - name: SQL
       level: 80%
-    - name: HTML5 & CSS
-      level: 95%
-    - name: React
-      level: 90%
     - name: Git
       level: 90%
+    - name: Jest
+      level: 95%
+    - name: NPM
+      level: 100%
 
 
 experiences:
