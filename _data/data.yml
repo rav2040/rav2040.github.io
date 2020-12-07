@@ -1,7 +1,8 @@
 sidebar:
   education: True
   name: Stuart Kennedy
-  tagline: Certified Node.js Developer
+  tagline:
+    - Full Stack Web Developer Certified Node.js Developer
   avatar: profile.jpg
   email: stuartkennedy-lfw@outlook.co.nz
   linkedin: rav2040
@@ -31,11 +32,11 @@ education:
 career-profile:
   title: Personal Statement
   summary: |
-    I am an OpenJS certified Node.js Application and Services developer.
+    I am a self-employed full stack web developer with a focus on Node.js, React, and Gatsby. I have OpenJS certifications for both Node.js Application and Node.js Services development.
 
-    I previously worked as an English teacher and Chinese-English translator/localisation specialist in Beijing, but have transitioned to a self-taught Node.js developer in recent years, and am now looking to start a new career in back end or full stack web development in New Zealand.
+    I previously worked as a Chinese-English localisation specialist in Beijing but have transitioned to a self-taught web developer in recent years, resulting in development of my own Node.js web framework called Tuft. I am open to starting a new career in back end or full stack web development in New Zealand.
 
-    While I do not yet have professional work experience, my Node.js certifications are objective proof that I have the skills of a seasoned Node.js developer. Already confident in my skills with Node.js, TypeScript, HTTP web servers, React.js, databases, and cloud services such as AWS and Azure, but looking for new opportunities to gain professional work experience.
+    Already confident in my skills with Node.js, TypeScript, React, REST APIs, testing frameworks such as Jest and Cypress, databases, and cloud services such as AWS and Azure, but always looking for new opportunities to gain professional work experience.
 
 publications:
   title: Certifications
@@ -92,6 +93,18 @@ skills:
 
 experiences:
 
+  - role: Full Stack Web Developer
+    time: Sep 2020 - Present
+    company: '<a href="https://www.sublimeweb.nz/" target="_blank">Sublime Web Solutions</a><br><span style="color: #999;">New Plymouth, New Zealand</span>'
+    details: |
+      I am currently running my own web services business that specialises in building front-end web solutions for small business clients using Gatsby/React.
+
+  - role: Issuing Officer
+    time: Sep 2020 - Oct 2020
+    company: '<a href="https://elections.nz/" target="_blank">New Zealand Electoral Commission</a><br><span style="color: #999;">New Plymouth, New Zealand</span>'
+    details: |
+      I worked as an electoral official for the 2020 New Zealand general election. My role was issuing votes to voters during the Advance Voting period and on Election Day.
+
   - role: Localisation Project Manager
     time: Aug 2012 - Jan 2020
     company: '<a href="http://www.topgame.com/" target="_blank">Topgame Entertainment</a><br><span style="color: #999;">Beijing, China</span>'
@@ -133,4 +146,4 @@ referees:
   content: Please contact me for my referees.
 
 footer:
-  <p>The content of this website is Copyright &copy; 2020 Stuart Kennedy.
+  <p>&copy; 2020 Stuart Kennedy.</p>
