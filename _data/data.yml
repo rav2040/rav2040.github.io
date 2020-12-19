@@ -40,11 +40,13 @@ career-profile:
 
 publications:
   title: Certifications
+  intro: >
+    Click on either of the badges below to verify their authenticity.
 
 projects:
   title: Projects
   intro: >
-    My primary portfolio piece is a Node.js web framework called Tuft, which has its own website at <a href="https://tuft.dev" target="_blank">https://tuft.dev</a>. GitHub repository links for all my open source Node.js projects, including Tuft, can be found below.
+    My primary portfolio piece is a Node.js web framework called Tuft, which is written in TypeScript and has its own website at <a href="https://tuft.dev" target="_blank">tuft.dev</a>. GitHub repository links for all my open source Node.js projects, including Tuft, can be found below.
   assignments:
     - title: Tuft
       link: https://github.com/tuftjs/tuft
